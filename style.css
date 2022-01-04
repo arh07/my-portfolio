@@ -84,5 +84,9 @@ h1 {
 #borderexp2 {
     border-left: 7px solid;
     border-image: linear-gradient(orange, cyan);
-    border-image-slice: 1;
+    border-image-slice: 10;
+}
+
+footer p {
+    text-align: center;
 }
